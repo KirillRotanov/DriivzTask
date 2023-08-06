@@ -1,0 +1,20 @@
+.location-wrapper {
+	position: relative;
+	width: 60vw;
+	height: 86vh;
+	border: 1px solid grey;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.save-btn {
+	position: absolute;
+	bottom: 3rem;
+	right: 3rem;
+	width: 2rem;
+	height: 2rem;
+	border: 1px solid grey;
+	border-radius: 50%;
+	background-color: rgb(64, 199, 64);
+}
